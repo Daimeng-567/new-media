@@ -35,6 +35,11 @@ a {
   text-decoration: none;
 }
 
+.main {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
 
 .lt {
   width: 5%;
